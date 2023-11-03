@@ -1,0 +1,11 @@
+.tab-list li{
+    display: inline-block;
+    border: solid 2px black;
+    padding: 6px;
+    border-radius: 12px 0 0;
+    background-color: rgb(156, 201, 78);
+}
+.tab-list li a{
+    text-decoration: none;
+
+}
